@@ -1,2 +1,2 @@
 # login_page
-Simple login code using HTML and CSS
+Simple login code using HTML and CSS with JS
